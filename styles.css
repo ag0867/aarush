@@ -1,0 +1,61 @@
+body {
+    background-color: purple
+}
+
+h1{
+   text-shadow: 1px 1px 1px white;   
+}
+
+p { 
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    font: "arial";
+}
+
+button {
+position: absolute; top: 10px; right: 10px;
+    height: 31px;
+    outline-width: thick;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+#demobox {
+  background-color: #FFFF00;
+  padding: 10px;
+    width: 1px;
+  border: 1px solid black ;
+}
+
+#demobot {
+  background-color: #FF0000;
+  padding: 10px;
+    width: 1px;
+  border: 1px solid black ;
+    margin: auto;
+    margin-top: 70px;
+    margin-right: 63px;
+}
+
+#super {
+    position: absolute; top: 10px; left: 10px;
+}
+
+#XD {
+    position: absolute; top: 50px; right: 10px;
+}
+
+#epic { 
+    position: absolute; top: 43px; left: 10px;
+}
+
+#noob { 
+    position: absolute; top: 76px; left: 10px;
+}
+
+
